@@ -1,0 +1,81 @@
+body 
+    {
+    background-color:rgb(244, 196, 248);
+    background-position:center;
+    background-attachment: scroll;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-color:rgb(60,191,191);
+    border-width:10px;
+    border-style:solid;
+    border-radius: 20px;
+    padding:5px;
+    
+    }
+  
+h1 
+    {
+    color:rgba(23, 59, 80, 0.863);
+    text-align: center;
+    }
+  
+p
+    {
+    font-family: verdana;
+    font-size: 20px;
+    color:rgba(23, 59, 80, 0.863);
+    }
+
+hr
+    {
+    color: red;
+    }
+#a1
+    {
+    font-size: 20cm;
+    }
+.wrapper 
+{
+        background-color: rgb(123, 176, 240);
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        grid-auto-rows: minmax(100px, auto);
+}
+tr
+{
+    background-color:#adfcfcd5;
+    background-position:center;
+    background-attachment: scroll;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-color:rgb(60,191,191);
+    border-width:10px;
+    border-style:solid;
+    border-radius: 20px;
+}
+td
+{
+
+    background-color:#c4fafa;
+    background-position:center;
+    background-attachment: scroll;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-color:rgb(60,191,191);
+    border-width:10px;
+    border-style:solid;
+    border-radius: 20px;
+    padding:20px; ;
+}
+span{
+    font-size: 20px;
+    color:rgba(23, 59, 80, 0.863);
+}
+#big{
+    font-size: 30px;
+}
+#table1
+{
+   background-position:center;
+}
